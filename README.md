@@ -6,6 +6,7 @@ Web development, software engineering, games programming, mobile app development
 
 * [Direct jump](./job-ready-javascript-edition-2.0.md) 
 * [Interview prep](https://github.com/kdn251/interviews)
+* [Open source projects to get started with](https://github.com/showcases/great-for-new-contributors?s=language)
 
 # Contents
 
