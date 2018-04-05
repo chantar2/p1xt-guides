@@ -7,7 +7,7 @@ Web development, software engineering, games programming, mobile app development
 * [Summary](#summary)
 * [Guides](#guides)
   * [Get Job ready with 13 projects, 2 courses, and 10 books](#get-job-ready-with-13-projects-2-courses-and-10-books)
-  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20)
+  * [Job Ready Guide - JavaScript Edition 2.0](#job-ready-guide---javascript-edition-20) <-- **IN PROGRESS**
   * [Job Ready Guide - Python Edition](#job-ready-guide---python-edition)
   * [Computer Science and Backend Development - Java Focus](#computer-science-and-backend-development---java-focus)
   * [Computer Science and Web Development - comprehensive](#computer-science-and-web-development---comprehensive)
