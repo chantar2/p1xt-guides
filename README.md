@@ -4,7 +4,8 @@ Web development, software engineering, games programming, mobile app development
 
 ## Check current progress
 
-[Direct jump](./job-ready-javascript-edition-2.0.md) 
+* [Direct jump](./job-ready-javascript-edition-2.0.md) 
+* [Interview prep](https://github.com/kdn251/interviews)
 
 # Contents
 
